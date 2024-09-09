@@ -14,7 +14,7 @@ print(my_last_name)
 # Use the len( ) function to get the number of characters in your first name
 # Assign the length of your first name to a variable named num_characters
 # Have Python print the value stored in the num_characters variable
-
+len(Bissonette)
 
 
 
