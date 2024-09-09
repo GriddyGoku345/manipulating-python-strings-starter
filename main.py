@@ -15,8 +15,8 @@ print(my_last_name)
 # Assign the length of your first name to a variable named num_characters
 # Have Python print the value stored in the num_characters variable
 len('Bissonette')
-character_count = len('Bissonette')
-
+num_characters = len('Bissonette')
+print(num_characters)
 
 
 # Part 3
