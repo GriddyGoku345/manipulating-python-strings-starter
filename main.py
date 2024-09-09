@@ -1,12 +1,12 @@
-# Your first and last name 
-# Add the current date
+# Isaac Bissonette
+# 9/9/24
 # String Manipulation
 
 # Part 1
 # Define a variable and assign it the string that is your last name
 # Then tell Python to print the value assigned to the variable
-
-
+my_last_name = 'Bissonette'
+print(my_last_name)
 
 
 
